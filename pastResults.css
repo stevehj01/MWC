@@ -1,0 +1,91 @@
+
+table.tableizer-table1 {
+	
+	border: 1px solid #CCC; font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	position: absolute;
+	top:280px;
+	left:250px;
+	width:700px;
+} 
+.tableizer-table1 td {
+	padding: 4px;
+	margin: 3px;
+	border: 1px solid #ccc;
+	background-color: White; 
+	
+}
+.tableizer-table1 th {
+	background-color: #104E8B; 
+	color: #FFF;
+	font-weight: bold;
+	text-align: center;
+}
+
+table.tableizer-table2 {
+	
+	border: 1px solid #CCC; font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	position: absolute;
+	top:530px;
+	left:150px;
+	width:900px;
+} 
+.tableizer-table2 td {
+	padding: 4px;
+	margin: 3px;
+	border: 1px solid #ccc;
+	background-color: White; 
+	
+}
+.tableizer-table2 th {
+	background-color: #104E8B; 
+	color: #FFF;
+	font-weight: bold;
+}
+
+
+table.tableizer-table3 {
+	
+	border: 1px solid #CCC; font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	position: absolute;
+	top:280px;
+	left:400px;
+	width:500px;
+} 
+.tableizer-table3 td {
+	padding: 4px;
+	margin: 3px;
+	border: 1px solid #ccc;
+	background-color: White; 
+	
+}
+.tableizer-table3 th {
+	background-color: #104E8B; 
+	color: #FFF;
+	font-weight: bold;
+	text-align: center;
+}
+
+table.tableizer-table4 {
+	
+	border: 1px solid #CCC; font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	position: absolute;
+	top:520px;
+	left:400px;
+	width:500px;
+} 
+.tableizer-table4 td {
+	padding: 4px;
+	margin: 3px;
+	border: 1px solid #ccc;
+	background-color: White; 
+	
+}
+.tableizer-table4 th {
+	background-color: #104E8B; 
+	color: #FFF;
+	font-weight: bold;
+}
